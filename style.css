@@ -1,0 +1,15 @@
+h1 {
+    text-align: left;
+}
+.left_column {
+    float: left;
+    width: 50%;
+}
+.right_column {
+    float: right;
+    width: inherit;
+}
+img {
+    width: 55%;
+    border: 6px solid #555;
+}
